@@ -18,18 +18,18 @@ Rights: CC BY-NC 4.0
 
 # Contents
 
-How to Use This Book?
+<a href="ch004.xhtml">How to Use This Book?</a>
 
-Preface by Leonida Kovač
+<a href="ch005.xhtml">Preface by Leonida Kovač</a>
 
-Introduction: A Mapping Exercise
+<a href="ch006.xhtml">Introduction: A Mapping Exercise</a>
 
-1\. Genealogy: How Are Independent Cultures Born?
+<a href="ch007.xhtml">1\. Genealogy: How Are Independent Cultures Born?</a>
 
-2\. Today: Whose Independent Cultures Are These?
+<a href="ch008.xhtml">2\. Today: Whose Independent Cultures Are These?</a>
 
-3\. Dimensions of Independence: What Is Independent Culture?
+<a href="ch009.xhtml">3\. Dimensions of Independence: What Is Independent Culture?</a>
 
-Bibliography
+<a href="ch0010.xhtml">Bibliography</a>
 
-Acknowledgments: From Amsterdam to Zagreb, Back, Forth and In-Between
+<a href="ch011.xhtml">Acknowledgments: From Amsterdam to Zagreb, Back, Forth and In-Between</a>

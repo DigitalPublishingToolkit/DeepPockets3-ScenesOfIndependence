@@ -21,7 +21,7 @@ Rights: CC BY-NC 4.0
 
 Zagreb, Rebecca West says, ‘has the endearing characteristic, noticeable
 in many French towns, of remaining a small town when it is in fact quite
-large’.[^1] She wrote these words in the late 1930s, when Zagreb had
+large’.[^ch01_1] She wrote these words in the late 1930s, when Zagreb had
 just over two hundred thousand inhabitants. By 2019, this number has
 almost quadrupled. Yet a similar feeling captures me while roaming the
 city today. It seems like Zagreb is a capital and a village at the same
@@ -33,7 +33,7 @@ parks squeezed between Mount Medvenica and the Sava River.
 Zagreb – between Sava and Medvenica.
 
 According to West, Zagreb’s village-like character is ‘a lovely
-spiritual victory over urbanization’.[^2] A dubious compliment. Within a
+spiritual victory over urbanization’.[^ch01_2] A dubious compliment. Within a
 few years after West’s visit, two hundred thousand refugees of World War
 II settled in the city, affirming that in Zagreb, too, the force of
 urbanization is more than capable of bending the laws of spiritual life.
@@ -106,18 +106,18 @@ Russia:*
 > Park still slumbers in an old Slavic, archaic condition, with wooden
 > architecture from ages prehistorical, and Čulinec and Banova Jaruga to
 > the southeast are the immediate transition to China and India, snoring
-> all the way to Bombay and distant Port Arthur.[^3]
+> all the way to Bombay and distant Port Arthur.[^ch01_3]
 
 So, this wonderful place of leisure, so progressive at the time of its
 construction, shows the particular of position Zagreb in cultural
 discourse; an explosive position on ‘the fault line between
-civilizations’.[^4] This strange place on the brink of East and West has
+civilizations’.[^ch01_4] This strange place on the brink of East and West has
 for centuries played an important role in the identification of Croatian
 culture, both from inside and out, and contributed to the Balkan’s
-reputation as the ‘Powder Keg of Europe’.[^5] For is it not inevitable
+reputation as the ‘Powder Keg of Europe’.[^ch01_5] For is it not inevitable
 that, when cultures so different from one another meet in one place,
 clashes ensue? Croatia is, in other words, on the frontier of the
-Culture Wars.[^6]
+Culture Wars.[^ch01_6]
 
 Around the old city of Zagreb, beyond the comfort of the Viennese
 boulevards of the lower town and the picturesque alleys of the upper
@@ -264,22 +264,22 @@ like to an outsider? And what insights do the struggles in Zagreb’s
 independent culture provide into the regimes of global neoliberalisms in
 culture and beyond?
 
-[^1]: Rebecca West, *Black Lamb and Grey Falcon: A Journey Through
+[^ch01_1]: Rebecca West, *Black Lamb and Grey Falcon: A Journey Through
     Yugoslavia* (London and Edinburgh: Canongate, 2006(1942)), 47.
 
-[^2]: West, *Black Lamb and Grey Falcon,* 47.
+[^ch01_2]: West, *Black Lamb and Grey Falcon,* 47.
 
-[^3]: Miroslav Krleža, *Journey to Russia,* trans. Will Firth (Zagreb:
+[^ch01_3]: Miroslav Krleža, *Journey to Russia,* trans. Will Firth (Zagreb:
     Sandorf, 2017), 26.
 
-[^4]: Georges Castellan, ‘Les Balkans: poudrière du XXe siècle,’
+[^ch01_4]: Georges Castellan, ‘Les Balkans: poudrière du XXe siècle,’
     *Guerres mondiales et conflicts contemporains,* no. 217 (January
     2005), 5-15.
 
-[^5]: Samuel P. Huntington, ‘The Clash of Civilizations?’ *Foreign
+[^ch01_5]: Samuel P. Huntington, ‘The Clash of Civilizations?’ *Foreign
     Affairs,* vol. 72, no. 3 (Summer 1993).
 
-[^6]: The Balkans have also been the battleground of military power
+[^ch01_6]: The Balkans have also been the battleground of military power
     struggles between West and East for centuries. The expansion of the
     Ottoman Empire was put to a halt by Western-European forces in the
     Balkans in the 16th and 17th century. In the early 20th century, the

@@ -16,6 +16,8 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
+#Colophon
+
 
 DeepPockets #3
 <br/>**Scenes of Independence: Cultural Ruptures in Zagreb (1991-2019)**
